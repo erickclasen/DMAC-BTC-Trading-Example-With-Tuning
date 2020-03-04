@@ -1,0 +1,96 @@
+Get Data for 2010
+Run Model
+Count,Short AVG,Long AVG,Best Bank 1 1 1 100000.0
+Count,Short AVG,Long AVG,Best Bank 2 1 2 100019.94800306857
+Count,Short AVG,Long AVG,Best Bank 3 4 10 100021.97000235319
+Count,Short AVG,Long AVG,Best Bank 4 5 3 100023.71900081635
+Count,Short AVG,Long AVG,Best Bank 5 5 10 100025.21500438452
+Count,Short AVG,Long AVG,Best Bank 6 6 2 100026.03199668229
+Count,Short AVG,Long AVG,Best Bank 7 6 7 100030.37100099027
+Count,Short AVG,Long AVG,Best Bank 8 18 22 100030.48999942839
+Count,Short AVG,Long AVG,Best Bank 9 18 23 100033.16599987447
+HODL Gains: 3.4948742540956927
+
+Get Data for 2011
+Run Model
+Count,Short AVG,Long AVG,Best Bank 1 1 1 100000.0
+Count,Short AVG,Long AVG,Best Bank 2 1 2 102093.52078139782
+Count,Short AVG,Long AVG,Best Bank 3 1 3 102225.84047019482
+HODL Gains: 17.399998609225012
+
+Get Data for 2012
+Run Model
+Count,Short AVG,Long AVG,Best Bank 1 1 1 100000.0
+Count,Short AVG,Long AVG,Best Bank 2 1 2 100491.99948310852
+Count,Short AVG,Long AVG,Best Bank 3 1 3 100964.99943733215
+Count,Short AVG,Long AVG,Best Bank 4 1 5 100973.99916648865
+HODL Gains: 2.54406135378094
+
+Get Data for 2013
+Run Model
+Count,Short AVG,Long AVG,Best Bank 1 1 1 100000.0
+Count,Short AVG,Long AVG,Best Bank 2 1 2 201123.98080825806
+Count,Short AVG,Long AVG,Best Bank 3 1 6 202582.00302124023
+Count,Short AVG,Long AVG,Best Bank 4 1 7 207117.99564361572
+Count,Short AVG,Long AVG,Best Bank 5 4 8 211835.00890731812
+Count,Short AVG,Long AVG,Best Bank 6 5 6 215262.00532913208
+Count,Short AVG,Long AVG,Best Bank 7 5 7 224949.010181427
+HODL Gains: 64.52635469690715
+
+Get Data for 2014
+Run Model
+Count,Short AVG,Long AVG,Best Bank 1 1 1 100000.0
+Count,Short AVG,Long AVG,Best Bank 2 1 19 104185.99548339844
+Count,Short AVG,Long AVG,Best Bank 3 3 2 107148.9974975586
+Count,Short AVG,Long AVG,Best Bank 4 3 7 114892.01049804688
+Count,Short AVG,Long AVG,Best Bank 5 4 7 127230.0048828125
+Count,Short AVG,Long AVG,Best Bank 6 4 8 139433.99353027344
+Count,Short AVG,Long AVG,Best Bank 7 50 10 139915.99578857422
+Count,Short AVG,Long AVG,Best Bank 8 50 17 141637.00103759766
+Count,Short AVG,Long AVG,Best Bank 9 50 24 142162.9898071289
+HODL Gains: 0.3678449327627478
+
+Get Data for 2015
+Run Model
+Count,Short AVG,Long AVG,Best Bank 1 1 1 100000.0
+Count,Short AVG,Long AVG,Best Bank 2 1 2 106646.99249267578
+Count,Short AVG,Long AVG,Best Bank 3 1 4 116866.01104736328
+Count,Short AVG,Long AVG,Best Bank 4 1 8 120450.00457763672
+Count,Short AVG,Long AVG,Best Bank 5 2 8 121153.0014038086
+Count,Short AVG,Long AVG,Best Bank 6 3 6 121561.00616455078
+Count,Short AVG,Long AVG,Best Bank 7 3 10 123229.00390625
+Count,Short AVG,Long AVG,Best Bank 8 4 8 126228.0044555664
+Count,Short AVG,Long AVG,Best Bank 9 5 7 129467.00744628906
+HODL Gains: 1.375971615679303
+
+Get Data for 2016
+Run Model
+Count,Short AVG,Long AVG,Best Bank 1 1 1 100000.0
+Count,Short AVG,Long AVG,Best Bank 2 1 2 144617.99926757812
+Count,Short AVG,Long AVG,Best Bank 3 1 7 149001.01013183594
+Count,Short AVG,Long AVG,Best Bank 4 1 27 149444.98291015625
+Count,Short AVG,Long AVG,Best Bank 5 1 30 152979.98962402344
+Count,Short AVG,Long AVG,Best Bank 6 1 31 153065.9912109375
+Count,Short AVG,Long AVG,Best Bank 7 1 32 154623.9959716797
+Count,Short AVG,Long AVG,Best Bank 8 1 36 155508.99658203125
+Count,Short AVG,Long AVG,Best Bank 9 1 40 156473.9990234375
+Count,Short AVG,Long AVG,Best Bank 10 1 41 161464.99938964844
+Count,Short AVG,Long AVG,Best Bank 11 2 41 161504.99877929688
+Count,Short AVG,Long AVG,Best Bank 12 2 43 161729.99572753906
+Count,Short AVG,Long AVG,Best Bank 13 2 47 161894.00024414062
+Count,Short AVG,Long AVG,Best Bank 14 2 48 162140.99731445312
+Count,Short AVG,Long AVG,Best Bank 15 2 52 163718.9971923828
+Count,Short AVG,Long AVG,Best Bank 16 4 5 164610.02807617188
+Count,Short AVG,Long AVG,Best Bank 17 16 19 165198.0010986328
+Count,Short AVG,Long AVG,Best Bank 18 18 48 165498.9990234375
+Count,Short AVG,Long AVG,Best Bank 19 23 27 166280.0048828125
+Count,Short AVG,Long AVG,Best Bank 20 29 30 169530.99670410156
+Count,Short AVG,Long AVG,Best Bank 21 32 44 170048.0010986328
+Count,Short AVG,Long AVG,Best Bank 22 36 44 171581.99462890625
+HODL Gains: 2.3449460133968594
+
+Get Data for 2017
+Run Model
+Count,Short AVG,Long AVG,Best Bank 1 1 1 100000.0
+Count,Short AVG,Long AVG,Best Bank 2 1 2 1735552.2216796875
+HODL Gains: 14.50678930229323

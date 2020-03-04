@@ -34,3 +34,7 @@ I have included simple-strat.py, which is the same code as the Datacamp article 
 Beyond that and the second mod to it, the code goes into various types of looping to optimize the parameters for the DMAC. Most do brute force looping and simple-strat-stoch-backtest.py does a random selection.
 
 A TBD would be to use differential evolution to pick the best average parameters. This would be more efficient than stochastic methods or brute force. 
+
+I have included a run that was done for 2010-2017 as BTC-by-year.txt
+In the directory 2019 there is a run for the year 2019. This is also covered in a blog post that I wrote in March 2020.
+http://erick.heart-centered-living.org/trading/dmac-btc-trading-example-with-tuning/
