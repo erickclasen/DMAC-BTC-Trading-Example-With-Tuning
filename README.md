@@ -37,4 +37,5 @@ A TBD would be to use differential evolution to pick the best average parameters
 
 I have included a run that was done for 2010-2017 as BTC-by-year.txt
 In the directory 2019 there is a run for the year 2019. This is also covered in a blog post that I wrote in March 2020.
+I was curious, 2018 was a rough year for BTC, how did the model do with it? Well it is all in the 2018 directory
 http://erick.heart-centered-living.org/trading/dmac-btc-trading-example-with-tuning/
